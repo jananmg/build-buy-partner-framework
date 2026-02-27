@@ -2,7 +2,7 @@
 
 A structured, interactive assessment tool that helps product and engineering leaders evaluate whether to **build an ML capability in-house**, **buy a vendor solution**, or **pursue a strategic partnership**.
 
-🔗 **[Try the live demo →]https://vercel.com/jananmgs-projects/build-buy-partner-framework**
+🔗 **[Try the live demo →](https://build-buy-partner-framework.vercel.app/)**
 
 ![Framework Screenshot](screenshot.png)
 
